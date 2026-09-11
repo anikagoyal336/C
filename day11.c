@@ -14,4 +14,4 @@ int main()
     printf("\nTotal electricity bill = %.2f", bill);
     return 0;
 
-}
+} 
